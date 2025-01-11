@@ -1,0 +1,1 @@
+Developed a Predictive Model for Health Insurance Coverage - Analyzed the Small Area Health Insurance Estimates (SAHIE) dataset using Python (Pandas, Scikit-learn) to identify factors influencing health insurance disparities, equipping policymakers with data-driven insights for enhancing access to insurance among underrepresented communities.
